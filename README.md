@@ -5,7 +5,7 @@ O projeto foi desenvolvido para praticar fundamentos da linguagem, como:
 - Tratamento de exceções
 - Criação de custom exceptions
 
-FUNCIONALIDADES
+FUNCIONALIDADES:
 A calculadora suporta:
 + Adição
 - Subtração
